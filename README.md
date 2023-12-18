@@ -33,7 +33,7 @@ I trained a model using various training and development data generators with di
 ### Final Results on Train Image Generator with Data Augmentation:
 
 
-<img src="https://github.com/parsaoy/Multi-Class-University-Food-Classifier-CNN-Project/blob/master/README%20images/Final%20Results.png?raw=true" alt="Sample Image" width="670" height="400">
+<img src="https://github.com/parsaoy/Multi-Class-University-Food-Classifier-CNN-Project/blob/master/README%20images/Final%20Results.png?raw=true" alt="Sample Image" width="710" height="400">
 
 
 ### Model Evaluation on Train Image Generator with Data Augmentation
