@@ -28,10 +28,15 @@ I trained a model using various training and development data generators with di
 
 *In the end, I achieved somehow excellent results with my augmented training generator images. The accuracy was around 92%, and the accuracy on the validation dataset was roughly 100%.*
 
-### Final Results
 
-![Final_Results](/Users/parsa/Downloads/Food Classification Project CNN/Final Results.png)
+----
+### Final Results on Train Image Generator with Data Augmentation:
 
-### Model Evaluation
 
-![Evaluation](/Users/parsa/Downloads/Food Classification Project CNN/Evaluation.jpg)
+<img src="https://github.com/parsaoy/Multi-Class-University-Food-Classifier-CNN-Project/blob/master/README%20images/Final%20Results.png?raw=true" alt="Sample Image" width="670" height="400">
+
+
+### Model Evaluation on Train Image Generator with Data Augmentation
+
+
+<img src="https://raw.githubusercontent.com/parsaoy/Multi-Class-University-Food-Classifier-CNN-Project/master/README%20images/Evaluation.jpg" alt="Sample Image" width="300" height="400">
