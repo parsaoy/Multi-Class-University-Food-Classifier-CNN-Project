@@ -27,3 +27,11 @@ After instantiating an image data generator, I included various data augmentatio
 I trained a model using various training and development data generators with different parameters, and ran them through my model for multiple epochs. Due to the large number of augmented images in the training process, it was difficult to fit the model, resulting in high accuracy on the validation set. As a result, I frequently obtained higher accuracy on the validation set than on the training set.
 
 *In the end, I achieved somehow excellent results with my augmented training generator images. The accuracy was around 92%, and the accuracy on the validation dataset was roughly 100%.*
+
+### Final Results
+
+![Final_Results](/Users/parsa/Downloads/Food Classification Project CNN/Final Results.png)
+
+### Model Evaluation
+
+![Evaluation](/Users/parsa/Downloads/Food Classification Project CNN/Evaluation.jpg)
