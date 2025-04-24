@@ -7,7 +7,7 @@ I had a dataset comprising of only 190 food images and I needed to train a model
 
 Due to the high imbalance of data, I balanced the weights based on the number of data points in each class.
 
-### Implementation
+### Implementation  
 
 I first loaded the pre-trained MobileNetV2 model and checked the input shape size, which was 224x224. Then, I loaded all layers except for the top FC layers. After that, I froze all the layers and added my own top layers, which were as follows:
 >* AveragePooling 
