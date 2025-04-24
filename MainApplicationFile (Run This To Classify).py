@@ -2,6 +2,7 @@
     This Python program classifies images University of Tabriz Foods.
     To classify an image,
     run the Python file and enter the file path of the image.
+    By Parsa Yousefinezhad
 """
 
 from keras.models import load_model
